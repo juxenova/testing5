@@ -1,0 +1,16 @@
+.video {
+  background-color: #f2faf8;
+  height: 600px;
+  position: relative;
+  top: -4448px;
+  width: 1280px;
+}
+
+.video .div-4 {
+  height: 100%;
+  left: 257px;
+  object-fit: cover;
+  position: relative;
+  top: 70px;
+  width: 100%;
+}
