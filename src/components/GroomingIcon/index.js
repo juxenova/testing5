@@ -1,0 +1,1 @@
+export { GroomingIcon } from "./GroomingIcon";

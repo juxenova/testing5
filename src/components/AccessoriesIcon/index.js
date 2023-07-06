@@ -1,0 +1,1 @@
+export { AccessoriesIcon } from "./AccessoriesIcon";

@@ -1,0 +1,45 @@
+.top-bar {
+  height: 100px;
+  left: -2020px;
+  position: relative;
+  top: -6318px;
+  width: 1280px;
+}
+
+.top-bar .logo-instance {
+  left: 100px !important;
+  position: absolute !important;
+  top: 32px !important;
+}
+
+.top-bar .design-component-instance-node {
+  background-image: url(../../../static/img/vector-6.png) !important;
+}
+
+.top-bar .frame {
+  height: 54px;
+  left: 929px;
+  position: absolute;
+  top: 23px;
+  width: 251px;
+}
+
+.top-bar .sign-up {
+  color: #2d2d2d;
+  font-family: var(--body-text-18px-regular-font-family);
+  font-size: var(--body-text-18px-regular-font-size);
+  font-style: var(--body-text-18px-regular-font-style);
+  font-weight: var(--body-text-18px-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-18px-regular-letter-spacing);
+  line-height: var(--body-text-18px-regular-line-height);
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.top-bar .secondary-CTA-log-in-instance {
+  left: 98px !important;
+  right: unset !important;
+}

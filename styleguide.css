@@ -1,0 +1,28 @@
+:root {
+  --background: rgba(247, 247, 247, 1);
+  --body-text-18px-regular-font-family: "Poppins-Regular", Helvetica;
+  --body-text-18px-regular-font-size: 18px;
+  --body-text-18px-regular-font-style: normal;
+  --body-text-18px-regular-font-weight: 400;
+  --body-text-18px-regular-letter-spacing: 0px;
+  --body-text-18px-regular-line-height: 32px;
+  --headline-80px-semibold-font-family: "Poppins-SemiBold", Helvetica;
+  --headline-80px-semibold-font-size: 80px;
+  --headline-80px-semibold-font-style: normal;
+  --headline-80px-semibold-font-weight: 600;
+  --headline-80px-semibold-letter-spacing: 0px;
+  --headline-80px-semibold-line-height: 90px;
+  --secondary-body-text-title-18px-semibold-font-family: "Poppins-SemiBold", Helvetica;
+  --secondary-body-text-title-18px-semibold-font-size: 18px;
+  --secondary-body-text-title-18px-semibold-font-style: normal;
+  --secondary-body-text-title-18px-semibold-font-weight: 600;
+  --secondary-body-text-title-18px-semibold-letter-spacing: 0px;
+  --secondary-body-text-title-18px-semibold-line-height: 32px;
+  --secondary-body-text-title-24px-semibold-font-family: "Poppins-SemiBold", Helvetica;
+  --secondary-body-text-title-24px-semibold-font-size: 24px;
+  --secondary-body-text-title-24px-semibold-font-style: normal;
+  --secondary-body-text-title-24px-semibold-font-weight: 600;
+  --secondary-body-text-title-24px-semibold-letter-spacing: 0px;
+  --secondary-body-text-title-24px-semibold-line-height: 40px;
+  --white: rgba(255, 255, 255, 1);
+}

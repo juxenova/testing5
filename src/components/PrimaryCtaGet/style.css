@@ -1,0 +1,57 @@
+.primary-CTA-get {
+  background-color: #f8d57e;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+.primary-CTA-get .overlap-group-2 {
+  border-radius: 10px;
+  height: 64px;
+  position: relative;
+  width: 203px;
+}
+
+.primary-CTA-get .hover-2 {
+  background-color: #f8d57e;
+  border-radius: 10px;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 203px;
+}
+
+.primary-CTA-get .text-wrapper {
+  color: #2d2d2d;
+  font-family: var(--body-text-18px-regular-font-family);
+  font-size: var(--body-text-18px-regular-font-size);
+  font-style: var(--body-text-18px-regular-font-style);
+  font-weight: var(--body-text-18px-regular-font-weight);
+  height: 32px;
+  left: 50px;
+  letter-spacing: var(--body-text-18px-regular-letter-spacing);
+  line-height: var(--body-text-18px-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.primary-CTA-get .live-link-2 {
+  color: #2d2d2d;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 32px;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 32px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 15px;
+  white-space: nowrap;
+}

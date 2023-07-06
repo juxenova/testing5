@@ -1,0 +1,59 @@
+.secondary-CTA-send {
+  background-color: #3366ff;
+  border-radius: 10px;
+  height: 54px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 116px;
+}
+
+.secondary-CTA-send .overlap-group-4 {
+  border-radius: 10px;
+  height: 54px;
+  position: relative;
+}
+
+.secondary-CTA-send .hover-4 {
+  background-color: #3366ff;
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 116px;
+}
+
+.secondary-CTA-send .get-started-2 {
+  color: var(--white);
+  font-family: var(--body-text-18px-regular-font-family);
+  font-size: var(--body-text-18px-regular-font-size);
+  font-style: var(--body-text-18px-regular-font-style);
+  font-weight: var(--body-text-18px-regular-font-weight);
+  left: 32px;
+  letter-spacing: var(--body-text-18px-regular-letter-spacing);
+  line-height: var(--body-text-18px-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.secondary-CTA-send .live-link-4 {
+  color: var(--white);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 32px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 10px;
+  white-space: nowrap;
+  width: 53px;
+}

@@ -1,0 +1,1 @@
+export { ImageDesktop } from "./ImageDesktop";

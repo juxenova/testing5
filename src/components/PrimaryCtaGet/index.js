@@ -1,0 +1,1 @@
+export { PrimaryCtaGet } from "./PrimaryCtaGet";
